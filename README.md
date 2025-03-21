@@ -1,7 +1,7 @@
 # Lab 6
 ## Bootstrap
 
-- [My website on Pages]()
+- [My website on Pages](https://jefftam79.github.io/lab6/)
 
 ### The Content Covered:
 1. 
