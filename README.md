@@ -7,4 +7,4 @@
 1. Responsive Design
 2. Using Bootstrap
 3. Customizing Favicon Images
-4. Sliders
+4. Sliderscas
